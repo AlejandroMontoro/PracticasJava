@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sistema {
+public class Sistema { 
     public static void main(String args[]) {
  
         //Sistema de vacaciones
