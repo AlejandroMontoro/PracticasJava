@@ -10,7 +10,7 @@ public class Sistema {
         int antiguedad = 0;
         int vacaciones = 0; 
         //Comentario Brian
-
+        //Comentario Merge desde IDE
         System.out.println("*******************************************************");
         System.out.println("*Bienvenido al sistema vacacional de Coca-Cola Company*");
         System.out.println("*******************************************************");
