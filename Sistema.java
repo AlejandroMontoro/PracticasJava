@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Sistema {
     public static void main(String args[]) {
-
+ 
         //Sistema de vacaciones
         Scanner entrada = new Scanner(System.in);
         String nombre = "", departamento = "";
